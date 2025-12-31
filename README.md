@@ -6,7 +6,7 @@
     <td style="vertical-align: top; padding-right: 20px;">
       <ul style="list-style-type: disc; padding-left: 20px;">
         <li>I’m currently expanding my expertise in Data Engineering and Analytics, focusing on Azure Databricks, SQL, Excel, PySpark and Data Warehousing.</li>
-        <li>💬 Ask me about <b>Databricks related work & queries</b></li>
+        <li>💬 Ask me about data analytics & management related work & queries </li>
         <li> I’m looking to collaborate on projects related to Data Engineering on Azure Databricks Intelligence Platform. </li>
         <li>📫 How to reach me <a href="https://www.linkedin.com/in/samarth-shandilya-a575743a1/" target="_blank">LinkedIn</a></li>
       </ul>
