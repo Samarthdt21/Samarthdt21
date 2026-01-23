@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Samarth Dixit</h1>
-<h3 align="center">Data Engineer | B.Tech (CSE)</h3>
+<h3 align="center">Data Analytics Engineer | B.Tech (CSE)</h3>
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
