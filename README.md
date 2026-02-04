@@ -8,7 +8,7 @@
         <li>I’m currently expanding my expertise in Data Engineering and Analytics, focusing on Azure Databricks, SQL, PySpark, and Power BI.</li>
         <li>💬 Ask me about all things data.</li>
         <li> I’m looking to collaborate on projects related to Data Engineering on the Azure Databricks Intelligence Platform. </li>
-        <li>📫 How to reach me <a href="https://www.linkedin.com/in/samarth-shandilya-a575743a1/" target="_blank">LinkedIn</a></li>
+        <li>📫 How to reach me <a href="https://www.linkedin.com/in/samarth-a575743a1/" target="_blank">LinkedIn</a></li>
       </ul>
     </td>
   </tr>
@@ -20,7 +20,7 @@
     <a href="https://github.com/Samarthdt21" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="https://www.linkedin.com/in/samarth-shandilya-a575743a1/" target="_blank">
+    <a href="https://www.linkedin.com/in/samarth-a575743a1/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:samarthdt21@gmail.com" target="_blank">
