@@ -7,7 +7,7 @@
       <ul style="list-style-type: disc; padding-left: 20px;">
         <li>I’m currently expanding my expertise in AI/Data Engineering and Analytics, focusing on Langchain/Langgraph, MCP, NLP, Azure Databricks, SQL, PySpark, and Power BI.</li>
         <li>💬 Ask me about all things data.</li>
-        <li> I’m looking to collaborate on projects related to Data Engineering on the Azure Databricks Intelligence Platform. </li>
+        <li> I’m looking to collaborate on projects related to Agentic AI and Data Analytics Engineering </li>
         <li>📫 How to reach me <a href="https://www.linkedin.com/in/samarth-a575743a1/" target="_blank">LinkedIn</a></li>
       </ul>
     </td>
